@@ -136,3 +136,7 @@ To run the full test suite, do:
     $ rake
 
 You don't need to be connected to the internet to test, as the responses from the Marvel API have been previously recorded. 
+
+### Testing coverage
+
+A report of the testing coverage is available under `coverage/index.html`.
